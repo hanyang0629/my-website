@@ -1,4 +1,4 @@
-## welcome to hayang's website
+## welcome to hanyang's website
 
 
 You can use the [editor on GitHub](https://github.com/hanyang0629/my-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -13,11 +13,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # my interesting
-## my ahbit
-### what I good at
+## my ahbits
+### my life goals
 
-- Bulleted
-- List
+- the link to my studig files
+- 
 
 1. Numbered
 2. List
